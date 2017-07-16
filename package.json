@@ -1,0 +1,20 @@
+{
+  "name": "linebot_grouphelper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "WillyHong",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^2.0.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "google-spreadsheet": "^2.0.4",
+    "messaging-api-line": "^0.2.3",
+    "node-schedule": "^1.2.3",
+    "request": "^2.81.0"
+  }
+}
