@@ -1,6 +1,7 @@
 # MessageBot-Helper_LINE-
 MessageBot-Helper_LINE  可排定時程，並在時間到後自動在LINE發出訊息提醒您
 
+<img src="https://github.com/runkids/MessageBot-Helper_LINE/blob/master/static/LINEBOT.gif?raw=true"/>
 
 ### Usage
 ```
