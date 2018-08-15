@@ -11,3 +11,6 @@ $ npm install
 $ node index.js
 ```
 ___請在config資料夾裡的檔案 填入您的相關金鑰___
+
+若在本地測試推薦用 [ngrok](https://ngrok.com/) 讓本機也可以開發 webhook 免部署環境
+`ngrok http 80`
